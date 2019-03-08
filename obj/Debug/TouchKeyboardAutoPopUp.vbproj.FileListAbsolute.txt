@@ -8,3 +8,13 @@ C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\o
 C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.exe
 C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.xml
 C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.pdb
+D:\Model\VS2012\TouchKeyboardAutoPopUpWin10\TouchKeyboardAutoPopUp\TouchKeyboardAutoPopUp\bin\Debug\TouchKeyboardAutoPopUp.exe.config
+D:\Model\VS2012\TouchKeyboardAutoPopUpWin10\TouchKeyboardAutoPopUp\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.exe
+D:\Model\VS2012\TouchKeyboardAutoPopUpWin10\TouchKeyboardAutoPopUp\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.xml
+D:\Model\VS2012\TouchKeyboardAutoPopUpWin10\TouchKeyboardAutoPopUp\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.pdb
+D:\Model\VS2012\TouchKeyboardAutoPopUpWin10\TouchKeyboardAutoPopUp\TouchKeyboardAutoPopUp\bin\Debug\TouchKeyboardAutoPopUp.exe
+D:\Model\VS2012\TouchKeyboardAutoPopUpWin10\TouchKeyboardAutoPopUp\TouchKeyboardAutoPopUp\bin\Debug\TouchKeyboardAutoPopUp.pdb
+D:\Model\VS2012\TouchKeyboardAutoPopUpWin10\TouchKeyboardAutoPopUp\TouchKeyboardAutoPopUp\bin\Debug\TouchKeyboardAutoPopUp.xml
+D:\Model\VS2012\TouchKeyboardAutoPopUpWin10\TouchKeyboardAutoPopUp\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.Form1.resources
+D:\Model\VS2012\TouchKeyboardAutoPopUpWin10\TouchKeyboardAutoPopUp\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.Resources.resources
+D:\Model\VS2012\TouchKeyboardAutoPopUpWin10\TouchKeyboardAutoPopUp\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.vbproj.GenerateResource.Cache

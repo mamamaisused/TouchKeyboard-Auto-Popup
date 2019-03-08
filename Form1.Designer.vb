@@ -33,7 +33,7 @@ Partial Class Form1
         '
         'Button4
         '
-        Me.Button4.BackColor = System.Drawing.Color.PaleTurquoise
+        Me.Button4.BackColor = System.Drawing.Color.Gainsboro
         Me.Button4.FlatAppearance.BorderSize = 0
         Me.Button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button4.Font = New System.Drawing.Font("Yu Gothic", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
