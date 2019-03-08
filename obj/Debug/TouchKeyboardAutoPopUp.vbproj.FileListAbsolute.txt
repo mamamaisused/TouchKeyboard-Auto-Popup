@@ -1,0 +1,10 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\bin\Debug\TouchKeyboardAutoPopUp.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\bin\Debug\TouchKeyboardAutoPopUp.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\bin\Debug\TouchKeyboardAutoPopUp.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\bin\Debug\TouchKeyboardAutoPopUp.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\TouchKeyboardAutoPopUp\obj\Debug\TouchKeyboardAutoPopUp.pdb

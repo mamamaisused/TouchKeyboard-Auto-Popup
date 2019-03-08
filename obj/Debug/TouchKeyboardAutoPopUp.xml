@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TouchKeyboardAutoPopUp
+</name>
+</assembly>
+<members>
+<member name="M:TouchKeyboardAutoPopUp.Form1.ShowTabTip">
+	<summary>
+ 通过Process Start的方法调出touchkeyboard，前提是任务管理器中这个进程已经结束
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TouchKeyboardAutoPopUp.Form1.HideTabTip">
+	<summary>
+ 通过结束进程的方式关闭显示
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TouchKeyboardAutoPopUp.Form1.caretposition">
+	<summary>
+ 范围当前插入符光标的位置，如果不在文本框内会返回（0，0）
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TouchKeyboardAutoPopUp.Form1.ClickTabTip_TaskBar">
+	<summary>
+ 模拟鼠标按右下角Touch keyboard按键，必须右键任务栏在show touch keyboar button上打勾
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TouchKeyboardAutoPopUp.Form1.IsTabTipOpen">
+	<summary>
+ 判断虚拟键盘是否显示
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TouchKeyboardAutoPopUp.Form1.IsCaretExist">
+	<summary>
+ 通过GetGUIThreadInfo可以得到当前焦点窗口的数据，可以从guiThreadInfo中获取
+ 在下面链接可以查到这个结构体的参数的含义
+ https://docs.microsoft.com/en-us/windows/desktop/api/winuser/ns-winuser-tagguithreadinfo
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:TouchKeyboardAutoPopUp.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TouchKeyboardAutoPopUp.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:TouchKeyboardAutoPopUp.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
